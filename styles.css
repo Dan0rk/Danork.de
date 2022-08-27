@@ -1,0 +1,22 @@
+body
+{
+    background-color: whitesmoke;
+}
+h1
+{
+    text-align: center;
+    color: rgb(40, 40, 40);
+}
+li
+{
+   display: inline-block;
+   margin-left: 20px;
+}
+nav{
+    background-color: grey;
+    height: 20px;
+}
+.red
+{
+    color: red;
+}
